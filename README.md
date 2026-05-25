@@ -30,6 +30,10 @@ This includes creating plots, charts, and graphs to effectively communicate the 
 
 ---
 
+## View the Project Here
+(https://github.com/Mikeyjud401/Foodhub_Data_Analysis/blob/main/FDS_Project_LearnerNotebook_FullCode%20(1).ipynb)
+---
+
 ## Usage
 To run Jupyter Notebook file containing code for this analysis, simply download the ipynb file and open it in Jupyter Notebook or any
 compatible enviornment. 
